@@ -1,4 +1,4 @@
-## Homepage for olaolu.dev
+## Homepage for jack.dev
 
 This app is based off of [vue-cli](https://cli.vuejs.org).
 
@@ -7,7 +7,7 @@ This app is based off of [vue-cli](https://cli.vuejs.org).
 
 ## License
 
-Copyright (c) 2019-present Olaolu Olawuyi. All rights reserved.
+Copyright (c) 2023-present Jack Tomasik. All rights reserved.
 
 **The code, design and articles in this repository are intellectual property of
 the individual mentioned above (unless otherwise stated) and as such CANNOT be

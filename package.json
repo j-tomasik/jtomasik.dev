@@ -5,11 +5,11 @@
   "workspaces": [
     "literal-sauce-drip"
   ],
-  "homepage": "https://olaolu.dev",
-  "description": "Olaolu's personal website",
-  "repository": "https://github.com/whizkydee/olaolu.dev",
-  "bugs": "https://github.com/whizkydee/olaolu.dev/issues",
-  "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (https://olaolu.dev)",
+  "homepage": "https://jack.dev",
+  "description": "Jack's personal website",
+  "repository": "https://github.com/jtomasik/jack.dev",
+  "bugs": "https://github.com/jtomasik/jack.dev/issues",
+  "author": "Jack Tomasik <jackedwardtomasik@gmail.com> (https://jack.dev)",
   "scripts": {
     "flush": "del dist landing/dist shelf/dist",
     "install": "yarn --cwd ./landing install && yarn --cwd ./shelf install",
